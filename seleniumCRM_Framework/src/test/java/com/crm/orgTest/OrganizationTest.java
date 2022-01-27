@@ -17,5 +17,4 @@ public class OrganizationTest {
 	public void modifyOrgTest() {
 		System.out.println("execute modifyOrgTest");
 	}
-
 }
